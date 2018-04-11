@@ -1,3 +1,5 @@
+<img width="540" alt="logos" src="https://user-images.githubusercontent.com/13070236/38646541-3da1f570-3d9d-11e8-8230-7fe348266b21.png">
+
 # Marvel Vs. DC: Predicting Consumer Similarity Using Latent Factor Models
 
 Using data personally scraped from Amazon.
